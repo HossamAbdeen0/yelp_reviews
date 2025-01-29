@@ -4,5 +4,5 @@ This project was completed as part of python for data science and machine learni
 
 Comprehend the task and approach it analytically
 Understand and prepare the data
-Modeling using linear regression and ridge
+Modeling using MultinomialNB and Pipeline
 comparing different models and reaching a conclusion
